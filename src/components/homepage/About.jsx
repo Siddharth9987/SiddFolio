@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import profileImg from "C:\\Users\\HP\\Downloads\\WhatsApp Image 2024-12-28 at 2.36.21 PM.jpeg";
+import profileImg from "C:/Users/HP/Downloads/WhatsApp Image 2024-12-28 at 2.36.21 PM.jpeg";
 import { ScrollTrigger } from "gsap/all";
 import { gsap } from "gsap";
 import Heading from "../ui/Heading";
